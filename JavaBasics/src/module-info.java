@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author user
+ *
+ */
+module JavaBasics {
+}
